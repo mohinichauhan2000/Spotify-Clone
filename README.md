@@ -1,0 +1,1 @@
+This project is a clone of the popular music streaming service Spotify. It demonstrates proficiency in building dynamic, user-friendly web applications with robust features including real-time music playback, playlist management, and secure user authentication.
